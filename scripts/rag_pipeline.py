@@ -1,5 +1,3 @@
-# src/rag_pipeline.py
-
 import os
 import pickle
 from typing import List
